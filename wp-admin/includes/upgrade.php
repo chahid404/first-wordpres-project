@@ -287,7 +287,7 @@ Commenter avatars come from <a href="%s">Gravatar</a>.'
 		if ( empty( $first_page ) ) {
 			$first_page = "<!-- wp:paragraph -->\n<p>";
 			/* translators: First page content. */
-			$first_page .= __( "This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:" );
+			$first_page .= __( "aaaaaaaa is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:" );
 			$first_page .= "</p>\n<!-- /wp:paragraph -->\n\n";
 
 			$first_page .= "<!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><p>";
